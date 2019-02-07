@@ -1,0 +1,35 @@
+
+Step :: 1
+-----------------
+
+TaskID 1 : Worker ID 1
+TaskID 1 : Worker ID 2
+TaskID 1 : Worker ID 3
+TaskID 2 : Worker ID 1
+TaskID 2 : Worker ID 4
+TaskID 4 : Worker ID 4
+
+Step :: 2
+-----------------
+
+TaskID 1 : Worker ID 1
+TaskID 1 : Worker ID 2
+TaskID 1 : Worker ID 3
+TaskID 2 : Worker ID 1
+TaskID 2 : Worker ID 4
+TaskID 3 : Worker ID 1
+TaskID 3 : Worker ID 2
+TaskID 4 : Worker ID 4
+
+Step :: 3
+-----------------
+
+TaskID 1 : Worker ID 1
+TaskID 1 : Worker ID 2
+TaskID 1 : Worker ID 3
+TaskID 2 : Worker ID 1
+TaskID 2 : Worker ID 4
+TaskID 3 : Worker ID 1
+TaskID 3 : Worker ID 2
+TaskID 4 : Worker ID 2
+TaskID 4 : Worker ID 4

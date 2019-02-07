@@ -1,0 +1,7 @@
+Nodes: 13 Time: 2
+Nodes: 13 Time: 2
+Nodes: 202 Time: 49
+Nodes: 1002 Time: 1702
+Nodes: 2002 Time: 11809
+Nodes: 4002 Time: 85456
+Nodes: 8002 Time: 503405
